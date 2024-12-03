@@ -11,6 +11,8 @@ function App() {
 
   const handleAddNote = (newNote) => {
     setNotes((prevNote) => [...prevNote, newNote]);
+    console.log(notes);
+    
   };
 
   const handleDeleteNote = (id) => {
