@@ -1,7 +1,7 @@
 # React + Vite
 This is a simple application for work with notes. you can add notes and also remove,check and sort them.
 It doesn't need database and works with a simple state.
-you just need to type "npm run dev" in terminal
+you just need to type "npm i" then "npm run dev" in terminal
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
